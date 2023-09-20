@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Si/Yes**
 
-- 📫 How to reach me **lautaroravanalyt@gmail.com**
+- 📫 How to reach me <a href="mailto:lautaroravanalyt@gmail.com">correo</a>
 
 - ⚡ Fun fact **Me fascina la programación. Intento aprender de manera autodidacta tanto como sea posible. I am fascinated by programming. I try to learn self-taught as much as possible.**
 
