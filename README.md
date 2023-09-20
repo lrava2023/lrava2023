@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Me fascina la programación. Intento aprender de manera autodidacta tanto como sea posible. I am fascinated by programming. I try to learn self-taught as much as possible.**
 
 <h3 align="left">Connect with me:</h3>
-<a href="[https://www.linkedin.com/in/juan-belich-bb214223a/](https://www.linkedin.com/in/lautaro-ravanal-0b923b285/)" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/lautaro-ravanal-0b923b285/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
 <p align="left">
