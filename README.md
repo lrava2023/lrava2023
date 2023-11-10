@@ -36,5 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lrava2023&show_icons=true&theme=dracula&title_color=38f604&hide_border=true&locale=en" alt="lrava2023" /></p>
 
-
-[![1691568185125.jpg](https://i.postimg.cc/3rPmRmKp/1691568185125.jpg)](https://postimg.cc/rzNKZdRF)
